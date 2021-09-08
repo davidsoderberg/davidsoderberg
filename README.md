@@ -12,18 +12,22 @@ Today I am developing some private Node.js/React apps with diffrent types of dat
 
 glhf, David 😄
 
+<table>
+<tbody>
+<tr>
+<td>
 
-<!--
-**davidsoderberg/davidsoderberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsoderberg&count_private=true&theme=dracula&show_icons=true)](https://github.com/davidsoderberg)
 
-Here are some ideas to get you started:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidsoderberg&repo=david-react-lib&theme=dracula&show_icons=true)](https://github.com/davidsoderberg/david-react-lib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsoderberg&langs_count=10&theme=dracula&hide=PHP)](https://github.com/davidsoderberg)
+
+</td>
+</tr>
+</tbody>
+</table>
+
