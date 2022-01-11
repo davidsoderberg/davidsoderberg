@@ -19,8 +19,6 @@ glhf, David 😄
 
 [![David's GitHub stats](https://github-readme-stats-delta-ebon-21.vercel.app/api?username=davidsoderberg&count_private=true&theme=dracula&show_icons=true)](https://github.com/davidsoderberg)
 
-[![Readme Card](https://github-readme-stats-delta-ebon-21.vercel.app/api/pin/?username=davidsoderberg&repo=david-react-lib&theme=dracula&show_icons=true)](https://github.com/davidsoderberg/david-react-lib)
-  
 </td>
 <td>
   
