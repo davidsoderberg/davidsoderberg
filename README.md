@@ -1,6 +1,5 @@
 ### Hi nerds 👋
-I am David, I am currently working as a Product Owner but started out as an full stack developer with Javascript and PHP.
-I have also learned some Java on the path to be a Product Owner. 
+I am David, I am currently working as a Software Engineer with a Typescript stack at @novuhq.
 
 Today I am developing some private Node.js/React apps with diffrent types of databases.
 
