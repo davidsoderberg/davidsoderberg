@@ -16,13 +16,13 @@ glhf, David 😄
 <tr>
 <td>
  
-[![David's GitHub stats](https://github-readme-stats-delta-ebon-21.vercel.app/api?username=davidsoderberg&count_private=true&theme=dracula&show_icons=true)](https://github.com/davidsoderberg)
+[![David's GitHub stats](https://github-readme-stats-delta-ebon-21.vercel.app/api?username=davidsoderberg&count_private=true&theme=dark&show_icons=true)](https://github.com/davidsoderberg)
 
-[![Readme Card](https://github-readme-stats-delta-ebon-21.vercel.app/api/pin/?username=novuhq&repo=novu&theme=dracula)](https://github.com/novuhq/novu)
+[![Readme Card](https://github-readme-stats-delta-ebon-21.vercel.app/api/pin/?username=novuhq&repo=novu&theme=dark)](https://github.com/novuhq/novu)
 </td>
 <td>
   
-[![Top Langs](https://github-readme-stats-delta-ebon-21.vercel.app/api/top-langs/?username=davidsoderberg&langs_count=10&theme=dracula&hide=PHP)](https://github.com/davidsoderberg)
+[![Top Langs](https://github-readme-stats-delta-ebon-21.vercel.app/api/top-langs/?username=davidsoderberg&langs_count=10&theme=dark&hide=PHP)](https://github.com/davidsoderberg)
 
 </td>
 </tr>
