@@ -130,3 +130,8 @@ Tools
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 </center>
+<center>
+
+![Metrics](https://metrics.lecoq.io/davidsoderberg?template=classic&base.community=0&activity=1&lines=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FStockholm)
+
+</center>
