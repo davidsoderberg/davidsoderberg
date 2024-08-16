@@ -17,8 +17,6 @@ glhf, David 😄
 <td>
  
 [![David's GitHub stats](https://github-readme-stats-delta-ebon-21.vercel.app/api?username=davidsoderberg&count_private=true&theme=dark&show_icons=true)](https://github.com/davidsoderberg)
-
-[![Readme Card](https://github-readme-stats-delta-ebon-21.vercel.app/api/pin/?username=novuhq&repo=novu&theme=dark)](https://github.com/novuhq/novu)
 </td>
 <td>
   
@@ -28,6 +26,10 @@ glhf, David 😄
 </tr>
 </tbody>
 </table>
+
+[![Readme Card](https://github-readme-stats-delta-ebon-21.vercel.app/api/pin/?username=davidsoderberg&repo=vite-plugin-genql&theme=dark)](https://github.com/davidsoderberg/vite-plugin-genql)
+[![Readme Card](https://github-readme-stats-delta-ebon-21.vercel.app/api/pin/?username=novuhq&repo=novu&theme=dark)](https://github.com/novuhq/novu)
+
 <center>
 Lang
 
