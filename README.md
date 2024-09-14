@@ -28,7 +28,7 @@ glhf, David 😄
 </table>
 
 [![Readme Card](https://github-readme-stats-delta-ebon-21.vercel.app/api/pin/?username=davidsoderberg&repo=vite-plugin-genql&theme=dark)](https://github.com/davidsoderberg/vite-plugin-genql)
-[![Readme Card](https://github-readme-stats-delta-ebon-21.vercel.app/api/pin/?username=novuhq&repo=novu&theme=dark)](https://github.com/novuhq/novu)
+
 
 <center>
 Lang
