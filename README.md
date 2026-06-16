@@ -1,13 +1,13 @@
 ### Hi nerds 👋
-I am David, I am currently working as a Software Engineer with a Typescript stack at @novuhq.
+I am David, I am currently working as a Product manager.
 
-Today I am developing some private Remix apps with diffrent types of databases.
+Today I am developing some private Nextjs apps with diffrent types of databases.
 
-- ⌨️ I’m currently working on a Remix app.
-- 📘 I’m currently learning Panda CSS.
-- ❔ Ask me about Remix, React, Nest.js stuff.
+- ⌨️ I’m currently working on a Nextjs app.
+- 📘 I’m currently learning usage of AI in apps.
+- ❔ Ask me about Nextjs, Remix, React, Nest.js stuff.
 - 🍔 Fun fact: I started out to be a chef but switched to be a developer, so food is my thing anyway.
-- 📫 How to reach me: [@dsouthmountain](https://twitter.com/dsouthmountain) (Twitter)
+- 📫 How to reach me: [@dsouthmountain](https://x.com/dsouthmountain) (X)
 
 glhf, David 😄
 
@@ -18,7 +18,6 @@ Lang
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </center>
 
